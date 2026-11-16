@@ -1,0 +1,5 @@
+# Dependencias opcionales para ingestión real NASA Earthdata (MERRA-2 M2T1NXSLV).
+# Instalar con: pip install -r requirements-earthdata.txt
+earthaccess>=0.11.0
+xarray>=2024.1.0
+netCDF4>=1.6.5
