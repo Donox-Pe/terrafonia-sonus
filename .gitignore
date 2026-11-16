@@ -1,0 +1,13 @@
+node_modules/
+dist/
+data/
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+ingest/tmp_merra2/
+*.nc4
+*.h5
+*.zip
+docs/
